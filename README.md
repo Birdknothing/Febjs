@@ -1,6 +1,12 @@
 # Febjs
 Functional programming alike javascript library
 
+## Usage
+
+```html
+     <script src="http://static.shaofeibo.cn/feb.min.js"></script>
+```
+
 ## Concept
 
 This open source javascript library is mean to solve async callback hell problem and improve programming experience.
